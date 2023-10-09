@@ -1,5 +1,5 @@
 ### Hi. I'm Elshod Musurmonov 👋
-<h2>Telegram: <a href=""><img src = "https://cdn.pixabay.com/photo/2020/11/24/10/03/telegram-5772057_1280.png" style="width:15px;"></a></h2>
+<h2>Telegram: <a href=""><img src = "https://cdn.pixabay.com/photo/2020/11/24/10/03/telegram-5772057_1280.png" style="width:15px;"> t.me/elshod1997</a></h2>
 <!--
 **elshodatc111/elshodatc111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
