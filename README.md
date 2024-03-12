@@ -1,4 +1,3 @@
-<h1>Hi. </h1>
 <h1>I'm Elshod Musurmonov 👋</h1>
 <p>I'm Web Dewelopers</p>
 <p><img src = "https://ir.ozone.ru/s3/multimedia-v/6538220191.jpg" style="width:15px;"> <b>Phone:</b> +99 890 883 0450 </p>
