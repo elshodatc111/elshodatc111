@@ -1,8 +1,5 @@
 <h2>I'm Web Dewelopers</h2>
 
-
-
-
 - 📧 Reach me email: elshodatc1116@gmail.com
 - 📫 Reach me telegram: [@atko_uz_admin](https://t.me/atko_uz_admin)
 - ⚙️ Technologies and tools: <br /> <br /> 
@@ -25,11 +22,11 @@
 
 
 
-<center> 
+<h1 align="center">
 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
-</center>
+</h1>
 
 
 
@@ -39,7 +36,6 @@
 
 
 
-<h1 align="center">My Status</h1>
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >
 
 <img align="left" width="47%" style="height: 156px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact" >
