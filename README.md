@@ -1,5 +1,5 @@
-<p>I'm Web Dewelopers</p>
-<p><img src = "https://i.travelcashinc.com/img/new/cover-letters/email-cover-letter-sample-and-tips.jpg" style="width:15px;"> <b>Email:</b>  </p>
+<h2>I'm Web Dewelopers</h2>
+
 
 
 
