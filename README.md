@@ -12,14 +12,10 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
+  Visitor count <br/><br/>
+  <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
   </h2>
   
 </div>
-  <h1 align="center">  Visitor count <br/><br/>
-    <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
-  </h1>
-  <h1 align="center"> <br/>
-      <br/>
-    
-  </h1>
+<h1 align="center">  
+</h1>
