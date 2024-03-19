@@ -13,18 +13,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br><br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-<h1 align="center">
-
-  Visitor count<br>
+<h1 align="center">  Visitor count<br>
   <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
 </h1>
 
@@ -34,7 +23,7 @@
 
 
 
-
+<h1 align="center"> My Status</h1>
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >
 
