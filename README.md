@@ -1,5 +1,5 @@
 <div align='center'>
-  <h2>
+  <h2>  My Status
     <img align="center"  width="700px" height="250px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >
     
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@
   <h1 align="center">  Visitor count <br/><br/>
     <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
   </h1>
-  <h1 align="center"> My Status <br/>
+  <h1 align="center"> <br/>
       <br/>
     
   </h1>
