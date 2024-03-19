@@ -24,5 +24,5 @@
 
 
 <h1 align="center"> My Status</h1>
-<img align="left"  width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >  
-<img align="right" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact" >
+<img align="left"  width="60%" height="300px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >  
+<img align="right" width="60%" marfin-top="70px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact" >
