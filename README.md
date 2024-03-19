@@ -24,7 +24,8 @@
 
 
 <h1 align="center"> My Status</h1>
-
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >
+<p align="center">
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" ><br>
 
 <img align="left" width="47%" style="height: 156px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact" >
+</p>
