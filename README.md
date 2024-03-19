@@ -25,11 +25,11 @@
 
 
 
-<p align="center"> 
+<center> 
 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
-</p>
+</center>
 
 
 
