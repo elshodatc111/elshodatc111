@@ -16,7 +16,7 @@
   <h1 align="center">  Visitor count <br/><br/>
     <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
   </h1>
-  <h1 align="center"> My Status <br/><br/>
-    <img align="center"  width="45%" height="300px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >  <br><br>
+  <h1 align="center"> My Status <br/>
+    <img align="center"  width="45%" height="300px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >  
     <img align="center" width="45%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact" >
   </h1>
