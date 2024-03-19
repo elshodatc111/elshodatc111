@@ -12,21 +12,11 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br><br>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<h1 align="center">  Technologies and tools: <br>
-  <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
-</h1>
-
-
-
-
-
-<h1 align="center">  Visitor count<br>
-
-</h1>
-
-<h1 align="center"> My Status</h1>
-<p align="center">
-<img align="center"  width="55%" height="300px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >  <br><br>
-<img align="center" width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact" >
-</p>
+  <h1 align="center">  Visitor count<br>
+    <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
+  </h1>
+  <h1 align="center"> My Status</h1>
+  <p align="center">
+    <img align="center"  width="55%" height="300px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >  <br><br>
+    <img align="center" width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact" >
+  </p>
