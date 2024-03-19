@@ -1,6 +1,6 @@
 <div align='center'>
-  <h2>  My Status <br/>
-    <img align="center"  width="700px" height="250px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" >
+  <h2>  My Status <br/><br/>
+    <img align="center"  width="700px" height="250px" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" ><br/>
     
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
