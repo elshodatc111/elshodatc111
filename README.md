@@ -1,27 +1,27 @@
 <div align="center">
-  <h1>👋 Salom! Men Laravel Backend Dasturchiman</h1>
-  <h3>Backend, API, SaaS, va zamonaviy web ilovalarni yaratish bo'yicha mutaxassis</h3>
+  <h1>👋 Hello! I'm a Laravel Backend Developer</h1>
+  <h3>Expert in Backend, API, SaaS, and modern web application development</h3>
 
   <br/>
 
   <img src="https://profile-counter.glitch.me/elshodatc111/count.svg" />
-  <p><i>Profilga tashrif buyuruvchilar soni</i></p>
+  <p><i>Visitor count</i></p>
 </div>
 
 ---
 
-## 🧑‍💻 Men haqimda
+## 🧑‍💻 About Me
 
-- 🏷 10+ yillik tajriba: PHP, Laravel, MySQL, REST API, SaaS va e-Commerce tizimlari.
-- ⚙️ Laravel bilan 2016-yildan beri ishlayman.
-- 🚀 Katta hajmdagi loyihalarni arxitektura qilish va optimallashtirish bo‘yicha tajribaga ega.
-- 🌐 Zamonaviy web texnologiyalar: Laravel, Vue.js, React, RESTful API, Docker.
-- 🛠 Kod sifatiga, xavfsizlik va samaradorlikka katta e’tibor beraman.
-- 📊 Loyihalarni biznes ehtiyojlari asosida samarali ishlab chiqish.
+- 🏷 10+ years of experience: PHP, Laravel, MySQL, REST API, SaaS, and e-Commerce systems.
+- ⚙️ Working with Laravel since 2016.
+- 🚀 Experienced in architecting and optimizing large-scale projects.
+- 🌐 Modern web technologies: Laravel, Vue.js, React, RESTful API, Docker.
+- 🛠 Strong focus on code quality, security, and performance.
+- 📊 Developing projects efficiently based on business requirements.
 
 ---
 
-## 🔧 Texnologiyalar va Asboblar
+## 🔧 Technologies & Tools
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📈 Statistika
+## 📈 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 📫 Aloqa
+## 📫 Contact
 
 - 🌐 Telegram: [@username](https://t.me/username)
 - 📩 Email: your.email@example.com
@@ -50,5 +50,5 @@
 ---
 
 <div align="center">
-  <h3>💡 "Har doim yangilikka intiling va sifatli kod yozing!"</h3>
+  <h3>💡 "Always strive for innovation and write quality code!"</h3>
 </div>
