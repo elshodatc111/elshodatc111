@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Elshod%20|%20Full-Stack%20Engineer&fontSize=45&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Elshod%20|%20Full-Stack%20%26%20AI%20Engineer&fontSize=45&animation=fadeIn" alt="header" />
 </div>
 
 <div align="center">
-  <h1>👋 Assalomu alaykum! Men Elshodman</h1>
-  <h3>Senior Backend Developer | Flutter Specialist | AI Integrator</h3>
+  <h1>👋 Hello there! I'm Elshod</h1>
+  <h3>Senior Backend Developer | Flutter Specialist | AI Integration Expert</h3>
 
   <p align="center">
     <a href="https://t.me/beckend_dev">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
-    <a href="mailto:elshodatc1116@gmail.com">
+    <a href="mailto:elshodatc@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -18,18 +18,18 @@
 
 ---
 
-## 🧑‍💻 Men haqimda
+## 🧑‍💻 About Me
 
-2016-yildan beri dasturlash olamidaman. Backend arxitekturasidan boshlab, mobil ilovalar va sun'iy intellekt integratsiyasigacha bo'lgan yo'lni bosib o'tdim. Murakkab biznes muammolariga innovatsion texnik yechimlar topish - mening asosiy vazifam.
+I have been in the software engineering industry since 2016. My journey started with complex backend architectures and has evolved into building cross-platform mobile applications and integrating cutting-edge Artificial Intelligence. My core mission is to architect innovative technical solutions for complex business challenges.
 
-- **🏛 Backend Architect:** 8 yillik Laravel tajribasi, yuqori yuklanishli (High-load) tizimlar.
-- **📱 Mobile Expert:** Flutter orqali Android/iOS uchun barqaror va chiroyli ilovalar yaratish.
-- **🤖 AI Instructor:** LLM (Large Language Models) va AI agentlarini biznes jarayonlariga integratsiya qilish (AI Korean Tutor loyihasi kabi).
-- **🛠 System Design:** SOLID, Clean Architecture va Mikroservislar bo'yicha mutaxassis.
+- **🏛 Backend Architect:** 10+ years of expertise in **Laravel** and PHP ecosystem, specializing in high-load systems.
+- **📱 Mobile Expert:** Crafting seamless, high-performance Android/iOS applications using **Flutter**.
+- **🤖 AI Instructor:** Integrating LLMs (Large Language Models) and AI agents into business workflows (e.g., AI Korean Tutor project).
+- **🛠 System Design:** Expert in SOLID principles, Clean Architecture, and Microservices.
 
 ---
 
-## 🛠 Texnologiyalar va Instrumentlar
+## 🛠 Tech Stack & Tools
 
 ### 🖥 Backend & Database
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -48,20 +48,20 @@
 
 ---
 
-## 📂 So'nggi Loyihalar
+## 📂 Recent Projects
 
 ### 🛰 SMS Gateway SaaS
-USB modemlar orqali avtomatlashtirilgan SMS xizmati. Cloudflare Tunnel va FastAPI yordamida statik IP-siz ishlovchi professional gateway.
+A professional-grade automated SMS service using USB modems. It features a standalone gateway that operates without a static IP via **Cloudflare Tunnel** and **FastAPI**.
 
 ### 🏫 Kindergarten CRM
-Bog'chalar uchun boshqaruv tizimi. **Laravel** (Backend) + **Flutter** (Mobile) + **MySQL** texnologiyalari asosida qurilgan mukammal ekotizim.
+A comprehensive management ecosystem for preschools. Built with **Laravel** (Backend) + **Flutter** (Mobile) + **MySQL**, handling everything from attendance to financial reporting.
 
 ### 🇰🇷 AI Korean Tutor
-Sun'iy intellekt asosida koreys tilini o'rgatuvchi aqlli instruktor. LLM modellarini ta'lim jarayoniga integratsiya qilish bo'yicha maxsus loyiha.
+An intelligent language learning instructor powered by AI. This project focuses on integrating LLM models to provide personalized, real-time Korean language education.
 
 ---
 
-## 📊 Statistikam
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -70,10 +70,10 @@ Sun'iy intellekt asosida koreys tilini o'rgatuvchi aqlli instruktor. LLM modella
 
 ---
 
-## 📫 Aloqa
+## 📫 Contact Me
 
 - ✈️ **Telegram:** [@beckend_dev](https://t.me/beckend_dev)
-- 📧 **Email:** elshodatc1116@gmail.com
+- 📧 **Email:** elshodatc@gmail.com
 
 <div align="center">
   <br/>
