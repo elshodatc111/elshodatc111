@@ -63,13 +63,9 @@ Sun'iy intellekt asosida koreys tilini o'rgatuvchi aqlli instruktor. LLM modella
 
 ## 📊 Statistikam
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elshod-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshod-dev&layout=compact&theme=tokyonight" alt="languages" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elshod-dev&theme=tokyonight" alt="streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elshodatc111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshodatc111&layout=compact&theme=tokyonight" />
 </p>
 
 ---
