@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Elshod%20|%20Full-Stack%20%26%20AI%20Engineer&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Elshod%20|%20Full-Stack%20Engineer&fontSize=45&animation=fadeIn" alt="header" />
 </div>
 
 <div align="center">
@@ -63,9 +63,13 @@ Sun'iy intellekt asosida koreys tilini o'rgatuvchi aqlli instruktor. LLM modella
 
 ## 📊 Statistikam
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elshod-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshod-dev&layout=compact&theme=tokyonight" alt="languages" />
+</div>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elshod-dev&theme=tokyonight" alt="streak" />
 </p>
 
 ---
