@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Elshod%20|%20Full-Stack%20%26%20AI%20Engineer&fontSize=45&animation=fadeIn" alt="header" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Elshod%20|%20Full-Stack%20Engineer&fontSize=45&animation=fadeIn" alt="header" />
+
 </div>
 
 <div align="center">
