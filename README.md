@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Elshod%20|%20Backend%20Architect&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Elshod%20|%20Full-Stack%20%26%20AI%20Engineer&fontSize=45&animation=fadeIn" />
 </div>
 
 <div align="center">
   <h1>👋 Assalomu alaykum! Men Elshodman</h1>
-  <h3>Senior Laravel Backend Developer & API Architect</h3>
+  <h3>Senior Backend Developer | Flutter Specialist | AI Integrator</h3>
 
   <p align="center">
     <a href="https://t.me/beckend_dev">
@@ -18,39 +18,50 @@
 
 ---
 
-## 🚀 Men haqimda
+## 🧑‍💻 Men haqimda
 
-2016-yildan beri murakkab tizimlar arxitekturasi va backend ekotizimlarini qurish bilan shug'ullanaman. Men nafaqat kod yozaman, balki biznes muammolariga texnik yechimlar topishni yaxshi ko'raman.
+2016-yildan beri dasturlash olamidaman. Backend arxitekturasidan boshlab, mobil ilovalar va sun'iy intellekt integratsiyasigacha bo'lgan yo'lni bosib o'tdim. Murakkab biznes muammolariga innovatsion texnik yechimlar topish - mening asosiy vazifam.
 
-- **8+ yillik tajriba:** PHP va Laravel ekotizimida chuqur bilim.
-- **Sohalar:** E-Commerce, CRM tizimlari, FinTech va Yuqori yuklanishli (High-load) API-lar.
-- **Arxitektura:** Clean Code, SOLID printsiplari va Design Patterns bo'yicha mutaxassis.
-- **Maqsad:** Xavfsiz, kengayuvchan va yuqori samarali ilovalar yaratish.
+- **🏛 Backend Architect:** 8 yillik Laravel tajribasi, yuqori yuklanishli (High-load) tizimlar.
+- **📱 Mobile Expert:** Flutter orqali Android/iOS uchun barqaror va chiroyli ilovalar yaratish.
+- **🤖 AI Instructor:** LLM (Large Language Models) va AI agentlarini biznes jarayonlariga integratsiya qilish (AI Korean Tutor loyihasi kabi).
+- **🛠 System Design:** SOLID, Clean Architecture va Mikroservislar bo'yicha mutaxassis.
 
 ---
 
 ## 🛠 Texnologiyalar va Instrumentlar
 
-### 🌐 Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+### 🖥 Backend & Database
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### ⚙️ DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+### 📱 Mobile & AI
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20Integrations-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistikam
+## 📂 So'nggi Loyihalar
+
+### 🛰 SMS Gateway SaaS
+USB modemlar orqali avtomatlashtirilgan SMS xizmati. Cloudflare Tunnel va FastAPI yordamida statik IP-siz ishlovchi professional gateway.
+
+### 🏫 Kindergarten CRM
+Bog'chalar uchun boshqaruv tizimi. **Laravel** (Backend) + **Flutter** (Mobile) + **MySQL** texnologiyalari asosida qurilgan mukammal ekotizim.
+
+### 🇰🇷 AI Korean Tutor
+Sun'iy intellekt asosida koreys tilini o'rgatuvchi aqlli instruktor. LLM modellarini ta'lim jarayoniga integratsiya qilish bo'yicha maxsus loyiha.
+
+---
+
+## 📊 Statistikam
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -59,11 +70,10 @@
 
 ---
 
-## 📫 Men bilan bog'lanish
+## 📫 Aloqa
 
 - ✈️ **Telegram:** [@beckend_dev](https://t.me/beckend_dev)
 - 📧 **Email:** elshodatc1116@gmail.com
-- 💼 **LinkedIn:** [Sizning profil havolangiz]
 
 <div align="center">
   <br/>
